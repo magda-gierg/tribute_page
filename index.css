@@ -1,0 +1,24 @@
+.page-header{
+
+}
+.jumbotron {
+  background-color: #696969;
+  color: white;
+}
+body {
+  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+}
+.Whitney img {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+.letter_color {
+  color: #8B0000;
+}
+a {
+  color: #B22222;
+}
+h6 {
+  padding-top: 50px;
+}
