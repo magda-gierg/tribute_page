@@ -1,1 +1,1 @@
-# tribute_page
+1st basic project 'Tribute Page' from freeCodeCamp 
